@@ -47,9 +47,27 @@ jQeury에서 css를 사용할 때 문법을 비슷하게 적용 가능
 |E.C|$("E.C")|태그 이름이 E인 엘리먼트중 C라는 클래스 선택자를 가진 모든 엘리먼트 선택|
 |E .C|$("E .C")|E의 자식노드 중 C라는 클래스 선택자를 가진 모든 엘리먼트 선택|
 |E>F|$("E>F")|E의 바로 아래 자식 태그 이름이 F인 모든 엘리먼트 선택|
+---
 
-## 속성 정리
 
-- margin : 5px  태그 외부 간격(크면 태그와 태그 사이 거리 멀어짐 left,bottom, top, right으로 세분화 가능)
-- padding : 5px 태그 내부 간격(작으면 태그 영역 좁아짐 left,bottom, top, right로 세분화 가능)
-- float: left   부모 태그에서 선언하면 자식 태그들이 아래로 내려가지 않고 가로로 정렬됨
+
+## CSS 속성 분류
+    - 뷰: 태그의 보여짐 여부 결정
+        * display
+        * opacity, visibility
+        * z-index
+    - 포지셔닝: 태그의 위치 결정
+        * position
+        * width, height
+        * left, right, top, bottom
+        * margin, padding
+        * float
+        * line-height
+        * transform - translate
+        * text-align
+        * box-sizing
+    - 데코레이션: 태그의 디테일한 디자인 결정
+        * border
+        * color, font-size
+        * background, background-image, background-color
+        * cursor
