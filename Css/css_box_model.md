@@ -23,10 +23,13 @@
 ![](https://images.velog.io/images/sh981013s/post/ac20c02f-67a9-4cde-8c5d-caa3e658129c/image.png)
 
 ___"padding : "___ 속성은 박스 내부의 공간을 지정한다.
+
 ![](https://images.velog.io/images/sh981013s/post/5ad9b3ab-bb24-45c1-93f9-1a739a45ea01/image.png)
 
 ___"margin : "___ 은 박스 외부의 공간을 지정한다.
+
 ![](https://images.velog.io/images/sh981013s/post/0bc98ff9-88dd-473f-b283-e01eb996f1c7/image.png)
+
 
 ___총정리 :___
 

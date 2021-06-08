@@ -13,6 +13,7 @@
 비지닉스 로직에 대한 부수적인 url을 생성, 연결, 관리 해준다.
 
 ![](https://images.velog.io/images/sh981013s/post/a4c14457-0a00-4df8-8b3f-aaef1952b219/image.png)
+
 함수 하나로 이 모든 작업이 가능하다.
 
 ![](https://images.velog.io/images/sh981013s/post/802e68d0-b4f8-46bc-914e-74c19ce4e875/image.png)
