@@ -75,7 +75,7 @@
  
  ![](https://images.velog.io/images/sh981013s/post/1b865465-a248-4ac0-8b38-000f98bce1c5/image.png)
  
- <iframe src="https://giphy.com/embed/jUwpNzg9IcyrK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK"></a></p>
+ ![](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
  
  
  ### WEBP
