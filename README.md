@@ -1,6 +1,6 @@
 # TIL
 
-SeungHwan Lee가 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [thoughtbot til 참고](https://github.com/thoughtbot/til)
+SeungHwan Lee가 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다.
 
 * 좋은 개발자가 되기 위해 하루동안 학습한 내용이나 개발관련 경험들을 기록으로 남긴다.
 
