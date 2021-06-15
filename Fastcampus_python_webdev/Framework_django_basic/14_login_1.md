@@ -28,6 +28,6 @@
 
 ![](https://images.velog.io/images/sh981013s/post/8777690b-b3ea-49d5-ad16-0642977a7a84/image.png)
 
-#### 이와같이 작성하고 비밀번호가 틀리면 error 가 작동하게, 맞으면 세션을 이용해야 하는데 이는 뒤에서 다루겠다.
+#### 이와같이 작성하고 비밀번호가 틀리면 error 가 작동하게, 맞으면 세션을 이용해야 하는데 이는 뒤에서 다루겠다..
 
 ![](https://images.velog.io/images/sh981013s/post/250fffcb-3acc-46cd-9cf0-377a3048af42/image.png)
