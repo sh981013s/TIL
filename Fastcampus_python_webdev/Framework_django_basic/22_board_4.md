@@ -44,7 +44,7 @@
 
 ![](https://images.velog.io/images/sh981013s/post/4a8eb6a7-ec3f-4085-bbd3-6ecd14b2bcdc/image.png)
 
-#### disabled 가 정상적으로 작동한다.
+#### disabled 가 정상적으로 작동한다...
 
 ![](https://images.velog.io/images/sh981013s/post/63616583-eefb-4c91-a9e3-22fede937b8a/image.png)
 
