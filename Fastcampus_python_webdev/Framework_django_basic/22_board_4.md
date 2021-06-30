@@ -32,7 +32,7 @@
 
 ![](https://images.velog.io/images/sh981013s/post/2cf8f8e2-8874-4cb8-bc60-baffeae22828/image.png)
 
-#### 하지만 에러가 나는데, 전의 페이지가 없어서 그렇기에 예외처리를 해준다.
+#### 하지만 에러가 나는데, 전의 페이지가 없어서 그렇기에 예외처리를 해준다..
 
 ![](https://images.velog.io/images/sh981013s/post/fb809ac2-bd75-4962-82ac-3d952cf40b4a/image.png)
 
