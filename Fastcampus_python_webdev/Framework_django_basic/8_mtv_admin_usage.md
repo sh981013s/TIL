@@ -63,7 +63,7 @@
 
 ![](https://images.velog.io/images/sh981013s/post/76864830-2b39-4712-97fd-5a8416fb63ae/image.png)
 
-#### 이제 '패스트캠퍼스 사용자' 라고 보여진다..
+#### 이제 '패스트캠퍼스 사용자' 라고 보여진다.
 
 ![](https://images.velog.io/images/sh981013s/post/704c4a64-0cd8-4a0e-aef2-d7d63527f43d/image.png)
 
